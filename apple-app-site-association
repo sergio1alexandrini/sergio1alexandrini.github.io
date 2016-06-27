@@ -1,1 +1,1 @@
-{"webcredentials»:{"apps":["3V868FP58Z.ru.tutu.trainapp"]}"applinks":{"apps": [],"details":[{"appID":"3V868FP58Z.ru.tutu.trainapp","paths":["*"]}]}}
+{    "webcredentials": {    "apps": ["3V868FP58Z.ru.tutu.trainapp"]    },    "applinks": {        "apps": [],        "details": [            {"appID": "3V868FP58Z.ru.tutu.trainapp",             "paths": ["*"]            }        ]    }}
