@@ -1,5 +1,7 @@
 <?php
-$var="something";
+function redirect()
+    {
+        $var="something";
 echo "Hello world";
 echo $var;
 /****************************************************
@@ -8,4 +10,5 @@ echo $var;
 *****************************************************/
 header("Location: http://www.tutu.ru/poezda/rasp_d.php?nnst1=2000000&nnst2=2208340&date=28.06.2016");
 exit;
+    }
 ?>
