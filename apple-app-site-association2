@@ -1,0 +1,15 @@
+{
+    "webcredentials": {
+        "apps": ["3V868FP58Z.ru.tutu.trainappdev",
+                 "3V868FP58Z.ru.tutu.aviaapp",
+                 "3V868FP58Z.ru.tutu.trainapp"]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+        {"appID": "3V868FP58Z.ru.tutu.trainappdev",
+        "paths": ["/poezda/rasp_d.php*", "/poezda/order/*"]
+        }
+        ]
+    }
+}
