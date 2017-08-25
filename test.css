@@ -1,0 +1,15 @@
+.field-description { display: none; }
+input { -webkit-box-sizing: border-box; -box-sizing: border-box; }
+
+form dl dt { color: #8d8d91; font-size: .7em; font-weight: normal; text-transform: uppercase; }
+form input[type="text"], form input[type="password"], form textarea,
+form select { height: 38px; padding: 2px 14px; border-color: #e7e7e7; box-shadow: 1px 1px 4px 0 #f7f7f7 inset; }
+form select { font-size: 0.9em; padding: 2px 8px; }
+form dl dd { margin: 0 0 1.4em; width: 100%; }
+dl.field-cardExpiration,
+dl.field-cardCVV2 { width: 50%; color: #8d8d91; }
+.card-cvc { width: 100% !important; text-align: left; }
+.card-num { font-size: .9em !important; width: 100% !important; font-weight: normal; }
+.form_button { height: 48px; width: 100%; margin: 0px; font-size: 1.1em; padding: 8px 15px; background: #4db6ac; color: #fff; }
+.form_button:active { padding-top: 8px; }
+.card-wrapper { float: none; }
